@@ -1,1 +1,6 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+## future features
+
+- Moving background 
+- light dark mode 
+- angled sections with drop shadow 
+
