@@ -6,7 +6,7 @@ export default function Projects() {
 
         <div className="grid">
           <a
-            href="https://guess-that-theme-song.herokuapp.com/"
+            href="https://takeyourguess.vercel.app/"
             className="card"
           >
             <h3>Guess that theme song &rarr;</h3>
@@ -16,7 +16,7 @@ export default function Projects() {
             </p>
           </a>
 
-          <a href="https://slimyapp.herokuapp.com/" className="card">
+          <a href="https://slimy-production.up.railway.app/" className="card">
             <h3>Slimy &rarr;</h3>
             <p>
               A full-stack database backed express application, where users can
@@ -24,7 +24,7 @@ export default function Projects() {
             </p>
           </a>
 
-          <a href="https://shielded-wave-21272.herokuapp.com/" className="card">
+          <a href="https://nextvroom-production.up.railway.app/" className="card">
             <h3>NextVroom &rarr;</h3>
             <p>
               This project allows users to create a private database to save
